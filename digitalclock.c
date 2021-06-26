@@ -4,14 +4,6 @@
 #include <time.h>
 #include "ascii_digits.h"
 
-/*
-Code Writter @home by "Salah eddine nacer" 
-Software engineer & Web Developer
-github.com/nacersalaheddine/digital_clock_console_pgm
-Contact Me@: 
-nacersalaheddine05@gmail.com
-*/
-
 void print_ascci_digits(
 	char colon[][cols_number],
 	char hours_first_digit[][cols_number],char hours_second_digit[][cols_number],
